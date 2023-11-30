@@ -6,6 +6,9 @@ The Webcam Eye Blocker is a Python application that uses real-time face detectio
 
 Here is an example of what the Webcam Eye Blocker output looks like:
 
+![demo](https://github.com/johngunerli/webcam-eye-blocker/assets/33205097/d707b8eb-6d1c-4180-a8b3-ec2155efa20a)
+
+
 ## Limitations
 
 The application is designed to work in real-time with a standard webcam feed. As such, the performance and accuracy are subject to lighting conditions, webcam quality, and the individual's positioning in front of the camera. The rectangle drawn over the eyes is a simple overlay and does not adapt dynamically to head movements beyond the scope of MediaPipe's face detection model.

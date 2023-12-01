@@ -1,12 +1,14 @@
 # Webcam Eye Blocker
 
-The Webcam Eye Blocker is a Python application that uses real-time face detection to draw a black rectangle over the eyes. It is built with OpenCV for image processing and the MediaPipe library for accurate face landmark detection.
+The Webcam Eye Blocker is a Python application that uses real-time face detection to draw a black rectangle over the eyes. There's also another piece of code that does pixelation. It is built with OpenCV for image processing and the MediaPipe library for accurate face landmark detection.
 
 ## Sample Output
 
 Here is an example of what the Webcam Eye Blocker output looks like:
 
 ![demo](https://github.com/johngunerli/webcam-eye-blocker/assets/33205097/d707b8eb-6d1c-4180-a8b3-ec2155efa20a)
+
+Here's the pixelation code output: 
 
 
 ## Limitations

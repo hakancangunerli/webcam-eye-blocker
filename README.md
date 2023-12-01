@@ -10,6 +10,9 @@ Here is an example of what the Webcam Eye Blocker output looks like:
 
 Here's the pixelation code output: 
 
+<img width="1033" alt="Screenshot 2023-11-30 at 7 10 01 PM" src="https://github.com/johngunerli/webcam-eye-blocker/assets/33205097/78fd4d8b-82cd-47b8-876e-8f9fdf3b7499">
+
+
 
 ## Limitations
 
